@@ -1,6 +1,6 @@
 # Surfs_Up
 # Overview
-## The purpose of this module challenge was to manipulate and analyze temperature data from the island of Oahu, Hawaii in order to assess whether or not it is a viable location for a new surf/ice cream shop.
+The purpose of this module challenge was to manipulate and analyze temperature data from the island of Oahu, Hawaii in order to assess whether or not it is a viable location for a new surf/ice cream shop.
 
 ## Results
 -June is observed to exhibit an average temperature of 74.9 degrees with a max of 85 degrees and a minimum of 64 degrees.
