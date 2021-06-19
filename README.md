@@ -3,9 +3,9 @@
 The purpose of this module challenge was to manipulate and analyze temperature data from the island of Oahu, Hawaii in order to assess whether or not it is a viable location for a new surf/ice cream shop.
 
 ## Results
--June is observed to exhibit an average temperature of 74.9 degrees with a max of 85 degrees and a minimum of 64 degrees.
--December has an average of 71 degrees with a max of 83 degrees and a minimum of 56 degrees.
--While the means of both months are relatively close (by 3 or so degrees), the temperature minimums are significantly different.
+- June is observed to exhibit an average temperature of 74.9 degrees with a max of 85 degrees and a minimum of 64 degrees.
+- December has an average of 71 degrees with a max of 83 degrees and a minimum of 56 degrees.
+- While the means of both months are relatively close (by 3 or so degrees), the temperature minimums are significantly different.
 
 <img width="243" alt="december_temps" src="https://user-images.githubusercontent.com/82029390/122643873-45f70380-d0e0-11eb-9836-354768386cd0.png">
 
